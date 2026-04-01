@@ -1,0 +1,10 @@
+Account_ID,Account_Name,Sub_Category,Master_Category
+REV-001,Enterprise Software Sales,Operating Revenue,Revenue
+REV-002,Implementation Services,Services Revenue,Revenue
+COGS-001,Cloud Hosting Costs,Cost of Goods Sold,Expense
+COGS-002,Third-Party Licensing,Cost of Goods Sold,Expense
+OPEX-001,Executive Salaries,Payroll,Expense
+OPEX-002,Sales Commissions,Payroll,Expense
+OPEX-003,Marketing Ad Spend,Marketing,Expense
+OPEX-004,Office Rent,Facilities,Expense
+OPEX-005,Software Subscriptions,IT Operations,Expense
