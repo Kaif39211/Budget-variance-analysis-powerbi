@@ -215,13 +215,13 @@ Both slicers hit everything. On Page 2, clicking a bar in the department chart a
 
 ## Tools
 
-Power BI Desktop · DAX · Power Query
+**Power BI Desktop · DAX · Power Query**
 
 
-**Role: Data Analyst ** 
+**Role: Data Analyst** 
 
  
- **Others Project -**
+ **Others Project**
  
  
 1) https://github.com/Kaif39211/pharmaceutical-inventory-analysis-SQL 
